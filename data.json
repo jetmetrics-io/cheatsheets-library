@@ -1,0 +1,1196 @@
+{
+  "tags": {
+    "dashboards": "Дашборды",
+    "vanity-metrics": "Метрики-обманки",
+    "metric-maps": "Карты и деревья метрик",
+    "diagnostics": "Диагностика метрик",
+    "ecommerce-metrics": "E-commerce метрики",
+    "retention": "Удержание",
+    "data-culture": "Data culture и ошибки",
+    "frameworks": "Фреймворки и классификации",
+    "seo": "SEO",
+    "crm": "CRM",
+    "ai-analytics": "AI и аналитика",
+    "segmentation": "Сегментация",
+    "costs-profit": "Расходы и прибыль",
+    "reporting": "Отчётность и коммуникация"
+  },
+  "items": [
+    {
+      "id": "cs-001",
+      "title": "#044 — Disconnected analytics is a losing deck",
+      "tags": [
+        "dashboards",
+        "reporting"
+      ],
+      "pdf": "pdf/cs-001.pdf",
+      "thumb": "thumbs/cs-001.png",
+      "source": "044 Disconnected analytics is a losing deck RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/260"
+    },
+    {
+      "id": "cs-002",
+      "title": "#045 — Shadow metrics tell the truth",
+      "tags": [
+        "vanity-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-002.pdf",
+      "thumb": "thumbs/cs-002.png",
+      "source": "045 Shadow metrics tell the truth RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/261"
+    },
+    {
+      "id": "cs-003",
+      "title": "#048 — Don't measure everything. Navigate.",
+      "tags": [
+        "data-culture",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-003.pdf",
+      "thumb": "thumbs/cs-003.png",
+      "source": "048 Don’t measure everything. Navigate. RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-004",
+      "title": "#050 — From bestsellers to dead stock",
+      "tags": [
+        "ecommerce-metrics",
+        "segmentation"
+      ],
+      "pdf": "pdf/cs-004.pdf",
+      "thumb": "thumbs/cs-004.png",
+      "source": "050 From bestsellers to dead stock RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/266"
+    },
+    {
+      "id": "cs-005",
+      "title": "#051 — Add to Cart Rate Driver Tree",
+      "tags": [
+        "metric-maps",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-005.pdf",
+      "thumb": "thumbs/cs-005.png",
+      "source": "051 Add to Cart Rate Driver Tree RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-006",
+      "title": "#052 — Same CR, different funnel",
+      "tags": [
+        "diagnostics",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-006.pdf",
+      "thumb": "thumbs/cs-006.png",
+      "source": "052 Same CR, different funnel RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/269"
+    },
+    {
+      "id": "cs-007",
+      "title": "#053 — LTV by segments is hidden gold",
+      "tags": [
+        "ecommerce-metrics",
+        "segmentation"
+      ],
+      "pdf": "pdf/cs-007.pdf",
+      "thumb": "thumbs/cs-007.png",
+      "source": "053 LTV by segments is  hidden gold RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/272"
+    },
+    {
+      "id": "cs-008",
+      "title": "#054 — E-commerce Metrics Health Check",
+      "tags": [
+        "ecommerce-metrics",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-008.pdf",
+      "thumb": "thumbs/cs-008.png",
+      "source": "054 E-commerce Metrics Health Check RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-009",
+      "title": "#055 — Fundamental Mistakes in Working with Metrics",
+      "tags": [
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-009.pdf",
+      "thumb": "thumbs/cs-009.png",
+      "source": "055 Fundamental Mistakes in Working with Metrics RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/273"
+    },
+    {
+      "id": "cs-010",
+      "title": "#056 — Is this a vanity metric?",
+      "tags": [
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-010.pdf",
+      "thumb": "thumbs/cs-010.png",
+      "source": "056 Is this a vanity metric RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-011",
+      "title": "#057 — Metrics Overlap",
+      "tags": [
+        "metric-maps",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-011.pdf",
+      "thumb": "thumbs/cs-011.png",
+      "source": "057 Metrics Overlap New – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/279"
+    },
+    {
+      "id": "cs-012",
+      "title": "#058 — 4 leverages of how to drive",
+      "tags": [
+        "frameworks",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-012.pdf",
+      "thumb": "thumbs/cs-012.png",
+      "source": "058 4 leverages of how to drive – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/282"
+    },
+    {
+      "id": "cs-013",
+      "title": "#059 — 7 Analytics Myths and what to do instead",
+      "tags": [
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-013.pdf",
+      "thumb": "thumbs/cs-013.png",
+      "source": "059 7 Analytics Myths and what to do instead RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/278"
+    },
+    {
+      "id": "cs-014",
+      "title": "#060 — 30 hypotheses for improving Average Items per Order",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-014.pdf",
+      "thumb": "thumbs/cs-014.png",
+      "source": "060 30 hypotheses for improving Average Items per Order metric RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/284"
+    },
+    {
+      "id": "cs-015",
+      "title": "#062 — Simpson's paradox explained",
+      "tags": [
+        "data-culture",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-015.pdf",
+      "thumb": "thumbs/cs-015.png",
+      "source": "062 Simpson’s paradox explanation – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/283"
+    },
+    {
+      "id": "cs-016",
+      "title": "#063 — 4-Layer Dashboard Model",
+      "tags": [
+        "dashboards",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-016.pdf",
+      "thumb": "thumbs/cs-016.png",
+      "source": "063 4-Layer Dashboard Model RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/290"
+    },
+    {
+      "id": "cs-017",
+      "title": "#064 — The Hateful Ten",
+      "tags": [
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-017.pdf",
+      "thumb": "thumbs/cs-017.png",
+      "source": "064 The Hateful Ten RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/285"
+    },
+    {
+      "id": "cs-018",
+      "title": "#065 — New Old way",
+      "tags": [
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-018.pdf",
+      "thumb": "thumbs/cs-018.png",
+      "source": "065 New Old way RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-019",
+      "title": "#066 — Dots and connections",
+      "tags": [
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-019.pdf",
+      "thumb": "thumbs/cs-019.png",
+      "source": "066 Dots and connections RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-020",
+      "title": "#067 — 7 ways to decompose a key metric",
+      "tags": [
+        "metric-maps",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-020.pdf",
+      "thumb": "thumbs/cs-020.png",
+      "source": "067 7 ways to decompose a key metric RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/296"
+    },
+    {
+      "id": "cs-021",
+      "title": "#068 — Conversion ↑, Profit ↓",
+      "tags": [
+        "diagnostics",
+        "ecommerce-metrics",
+        "costs-profit"
+      ],
+      "pdf": "pdf/cs-021.pdf",
+      "thumb": "thumbs/cs-021.png",
+      "source": "068 Conversion ↑, Profit ↓ RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/297"
+    },
+    {
+      "id": "cs-022",
+      "title": "#069 — The Nothing Changed Problem",
+      "tags": [
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-022.pdf",
+      "thumb": "thumbs/cs-022.png",
+      "source": "069 The Nothing Changed Problem RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/298"
+    },
+    {
+      "id": "cs-023",
+      "title": "#070 — 3 dashboard types, 1 foundation",
+      "tags": [
+        "dashboards",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-023.pdf",
+      "thumb": "thumbs/cs-023.png",
+      "source": "070 3 dashboard types – 1 foundation RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/299"
+    },
+    {
+      "id": "cs-024",
+      "title": "#071 — Core map",
+      "tags": [
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-024.pdf",
+      "thumb": "thumbs/cs-024.png",
+      "source": "071 Core map RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/308"
+    },
+    {
+      "id": "cs-025",
+      "title": "#072 — Good vs Bad Dashboards",
+      "tags": [
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-025.pdf",
+      "thumb": "thumbs/cs-025.png",
+      "source": "072 Good vs Bad Dashboards RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-026",
+      "title": "#073 — Logic-first Dashboards Cascade",
+      "tags": [
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-026.pdf",
+      "thumb": "thumbs/cs-026.png",
+      "source": "073 Logic-first Dashboards Cascade RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/302"
+    },
+    {
+      "id": "cs-027",
+      "title": "#074 — 3 leverages of how to drive",
+      "tags": [
+        "frameworks",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-027.pdf",
+      "thumb": "thumbs/cs-027.png",
+      "source": "074 3 leverages of how to drive RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-028",
+      "title": "#075 — How a Vanity Metric Becomes Useful",
+      "tags": [
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-028.pdf",
+      "thumb": "thumbs/cs-028.png",
+      "source": "075 How a Vanity Metric Becomes Useful RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-029",
+      "title": "#076 — Your CEO doesn't care about your CTR",
+      "tags": [
+        "reporting",
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-029.pdf",
+      "thumb": "thumbs/cs-029.png",
+      "source": "076 Your CEO doesn’t care about your CTR – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/306"
+    },
+    {
+      "id": "cs-030",
+      "title": "#077 — 10 ways to slice your metrics",
+      "tags": [
+        "segmentation",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-030.pdf",
+      "thumb": "thumbs/cs-030.png",
+      "source": "077 10 ways to slice your metrics – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/309"
+    },
+    {
+      "id": "cs-031",
+      "title": "#078 — The 4 layers of a Metrics System",
+      "tags": [
+        "frameworks",
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-031.pdf",
+      "thumb": "thumbs/cs-031.png",
+      "source": "078 The 4 layers of a Metrics System – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/318"
+    },
+    {
+      "id": "cs-032",
+      "title": "#079 — How Store's Costs Are Formed",
+      "tags": [
+        "costs-profit",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-032.pdf",
+      "thumb": "thumbs/cs-032.png",
+      "source": "079 How Store’s Costs Are Formed  – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/319"
+    },
+    {
+      "id": "cs-033",
+      "title": "#080 — Reduce cart abandonment: Guide",
+      "tags": [
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-033.pdf",
+      "thumb": "thumbs/cs-033.png",
+      "source": "080 Reduce cart abandonment Guide RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/120"
+    },
+    {
+      "id": "cs-034",
+      "title": "#081 — How to structure dashboards the right way",
+      "tags": [
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-034.pdf",
+      "thumb": "thumbs/cs-034.png",
+      "source": "081 How to structure dashboards the right way – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/322"
+    },
+    {
+      "id": "cs-035",
+      "title": "#082 — 9 Circles of E-commerce Analytics Hell",
+      "tags": [
+        "data-culture",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-035.pdf",
+      "thumb": "thumbs/cs-035.png",
+      "source": "082 9 Circles of E-commerce Analytics Hell – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/323"
+    },
+    {
+      "id": "cs-036",
+      "title": "#083 — Metrics map ≠ metrics tree",
+      "tags": [
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-036.pdf",
+      "thumb": "thumbs/cs-036.png",
+      "source": "083 Metrics map ≠ metrics tree RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/324"
+    },
+    {
+      "id": "cs-037",
+      "title": "#084 — SEO metrics map",
+      "tags": [
+        "seo",
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-037.pdf",
+      "thumb": "thumbs/cs-037.png",
+      "source": "084 SEO metrics map – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/328"
+    },
+    {
+      "id": "cs-038",
+      "title": "#085 — 12 high-intent events behind your CR",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-038.pdf",
+      "thumb": "thumbs/cs-038.png",
+      "source": "085 12 high-intent events behind your CR – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/330"
+    },
+    {
+      "id": "cs-039",
+      "title": "#087 — From definitions to focus",
+      "tags": [
+        "frameworks",
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-039.pdf",
+      "thumb": "thumbs/cs-039.png",
+      "source": "087 From definitions to focus RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/331"
+    },
+    {
+      "id": "cs-040",
+      "title": "#088 — E-commerce Growth Rules",
+      "tags": [
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-040.pdf",
+      "thumb": "thumbs/cs-040.png",
+      "source": "088 E-commerce Growth Rules – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/335"
+    },
+    {
+      "id": "cs-041",
+      "title": "#089 — With or without a metric map",
+      "tags": [
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-041.pdf",
+      "thumb": "thumbs/cs-041.png",
+      "source": "089 With or without metric map – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/336"
+    },
+    {
+      "id": "cs-042",
+      "title": "#090 — The Lifecycle of Metric Maps and Trees",
+      "tags": [
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-042.pdf",
+      "thumb": "thumbs/cs-042.png",
+      "source": "090 The Lifecycle of Metric Maps and Trees – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/337"
+    },
+    {
+      "id": "cs-043",
+      "title": "#091 — CRM metrics map",
+      "tags": [
+        "crm",
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-043.pdf",
+      "thumb": "thumbs/cs-043.png",
+      "source": "091 CRM metrics map – RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-044",
+      "title": "#092 — Analytics Priorities 2026",
+      "tags": [
+        "data-culture",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-044.pdf",
+      "thumb": "thumbs/cs-044.png",
+      "source": "092 Analytics Priorities 2026 RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/360"
+    },
+    {
+      "id": "cs-045",
+      "title": "#093 — 10-step AOV drop diagnostic algorithm",
+      "tags": [
+        "diagnostics",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-045.pdf",
+      "thumb": "thumbs/cs-045.png",
+      "source": "093 10-step AOV drop diagnostic algorithm – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/362"
+    },
+    {
+      "id": "cs-046",
+      "title": "#094 — Orders ↑, Profit ↓",
+      "tags": [
+        "diagnostics",
+        "costs-profit",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-046.pdf",
+      "thumb": "thumbs/cs-046.png",
+      "source": "094 Orders ↑, Profit ↓.pdf",
+      "tg_post": "https://t.me/jetmetrics/410"
+    },
+    {
+      "id": "cs-047",
+      "title": "#095 — 15 metric frameworks",
+      "tags": [
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-047.pdf",
+      "thumb": "thumbs/cs-047.png",
+      "source": "095 15 metric frameworks – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/365"
+    },
+    {
+      "id": "cs-048",
+      "title": "#096 — CR Driver Tree",
+      "tags": [
+        "metric-maps",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-048.pdf",
+      "thumb": "thumbs/cs-048.png",
+      "source": "096 CR Driver Tree – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/389"
+    },
+    {
+      "id": "cs-049",
+      "title": "#097 — Spontaneous Decisions vs System",
+      "tags": [
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-049.pdf",
+      "thumb": "thumbs/cs-049.png",
+      "source": "097 Spontaneous Decisions VS System RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-050",
+      "title": "#099 — How to define a key metric",
+      "tags": [
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-050.pdf",
+      "thumb": "thumbs/cs-050.png",
+      "source": "099 How to define key metric – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/387"
+    },
+    {
+      "id": "cs-051",
+      "title": "#100 — How to add a metric",
+      "tags": [
+        "frameworks",
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-051.pdf",
+      "thumb": "thumbs/cs-051.png",
+      "source": "100 How to add a metric – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/388"
+    },
+    {
+      "id": "cs-052",
+      "title": "#103 — What people think 'checking why revenue dropped' looks like",
+      "tags": [
+        "diagnostics",
+        "reporting"
+      ],
+      "pdf": "pdf/cs-052.pdf",
+      "thumb": "thumbs/cs-052.png",
+      "source": "103 What people think Checking why revenue dropped looks like – RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-053",
+      "title": "#105 — Metric went up — is that good?",
+      "tags": [
+        "diagnostics",
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-053.pdf",
+      "thumb": "thumbs/cs-053.png",
+      "source": "105 Metric went up is that good – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/404"
+    },
+    {
+      "id": "cs-054",
+      "title": "#106 — Same Revenue, different e-com apps",
+      "tags": [
+        "diagnostics",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-054.pdf",
+      "thumb": "thumbs/cs-054.png",
+      "source": "106 Same Revenue. Different ecom apps – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/406"
+    },
+    {
+      "id": "cs-055",
+      "title": "#107 — How to explain metrics",
+      "tags": [
+        "reporting"
+      ],
+      "pdf": "pdf/cs-055.pdf",
+      "thumb": "thumbs/cs-055.png",
+      "source": "107 How to explain metrics – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/407"
+    },
+    {
+      "id": "cs-056",
+      "title": "#108 — Optimization is NOT Growth",
+      "tags": [
+        "data-culture",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-056.pdf",
+      "thumb": "thumbs/cs-056.png",
+      "source": "108 Optimization is NOT Growth – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/408"
+    },
+    {
+      "id": "cs-057",
+      "title": "#109 — One metric won't tell you what's wrong",
+      "tags": [
+        "diagnostics",
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-057.pdf",
+      "thumb": "thumbs/cs-057.png",
+      "source": "109 One metric won't tell you what's wrong – RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-058",
+      "title": "#112 — When growth is eating your e-commerce business",
+      "tags": [
+        "ecommerce-metrics",
+        "costs-profit"
+      ],
+      "pdf": "pdf/cs-058.pdf",
+      "thumb": "thumbs/cs-058.png",
+      "source": "112 When growth is eating e-commerce business – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/413"
+    },
+    {
+      "id": "cs-059",
+      "title": "#114 — How top e-commerce teams read their data differently",
+      "tags": [
+        "data-culture",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-059.pdf",
+      "thumb": "thumbs/cs-059.png",
+      "source": "114 How top e-commerce teams read their data differently RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/412"
+    },
+    {
+      "id": "cs-060",
+      "title": "#117 — Symptoms of vanity metrics",
+      "tags": [
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-060.pdf",
+      "thumb": "thumbs/cs-060.png",
+      "source": "117 Symptoms of vanity metrics RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/417"
+    },
+    {
+      "id": "cs-061",
+      "title": "#118 — How to cure vanity metrics",
+      "tags": [
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-061.pdf",
+      "thumb": "thumbs/cs-061.png",
+      "source": "118 How to cure vanity metrics RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/418"
+    },
+    {
+      "id": "cs-062",
+      "title": "#121 — Types of metrics",
+      "tags": [
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-062.pdf",
+      "thumb": "thumbs/cs-062.png",
+      "source": "121 Types of metrics – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/420"
+    },
+    {
+      "id": "cs-063",
+      "title": "#122 — Types of relationships between metrics",
+      "tags": [
+        "frameworks",
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-063.pdf",
+      "thumb": "thumbs/cs-063.png",
+      "source": "122 Types of relationships metrics – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/422"
+    },
+    {
+      "id": "cs-064",
+      "title": "#126 — Higher AOV might mean you're losing money",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-064.pdf",
+      "thumb": "thumbs/cs-064.png",
+      "source": "126 Higher AOV might mean you're losing money – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/431"
+    },
+    {
+      "id": "cs-065",
+      "title": "#127 — Stop asking AI for answers",
+      "tags": [
+        "ai-analytics",
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-065.pdf",
+      "thumb": "thumbs/cs-065.png",
+      "source": "127 Stop asking AI for answers – RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/432"
+    },
+    {
+      "id": "cs-066",
+      "title": "#128 — How do we use Claude for our job (1/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-066.pdf",
+      "thumb": "thumbs/cs-066.png",
+      "source": "128 How do we use Claude for our job - 1.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-067",
+      "title": "#128 — How do we use Claude for our job (2/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-067.pdf",
+      "thumb": "thumbs/cs-067.png",
+      "source": "128 How do we use Claude for our job - 2.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-068",
+      "title": "#128 — How do we use Claude for our job (3/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-068.pdf",
+      "thumb": "thumbs/cs-068.png",
+      "source": "128 How do we use Claude for our job - 3.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-069",
+      "title": "#128 — How do we use Claude for our job (4/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-069.pdf",
+      "thumb": "thumbs/cs-069.png",
+      "source": "128 How do we use Claude for our job - 4.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-070",
+      "title": "#128 — How do we use Claude for our job (5/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-070.pdf",
+      "thumb": "thumbs/cs-070.png",
+      "source": "128 How do we use Claude for our job - 5.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-071",
+      "title": "#128 — How do we use Claude for our job (6/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-071.pdf",
+      "thumb": "thumbs/cs-071.png",
+      "source": "128 How do we use Claude for our job - 6.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-072",
+      "title": "#128 — How do we use Claude for our job (7/7)",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-072.pdf",
+      "thumb": "thumbs/cs-072.png",
+      "source": "128 How do we use Claude for our job - 8.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-073",
+      "title": "#129 — Read every metric drop through 5 questions",
+      "tags": [
+        "diagnostics",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-073.pdf",
+      "thumb": "thumbs/cs-073.png",
+      "source": "129 Read every metric drop through 5 questions – RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-074",
+      "title": "#135 — Decoration or Decision",
+      "tags": [
+        "dashboards",
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-074.pdf",
+      "thumb": "thumbs/cs-074.png",
+      "source": "135 – Decoration or Decision – RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-075",
+      "title": "#136 — What your AI is missing",
+      "tags": [
+        "ai-analytics"
+      ],
+      "pdf": "pdf/cs-075.pdf",
+      "thumb": "thumbs/cs-075.png",
+      "source": "136 – What your AI is missing RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/436"
+    },
+    {
+      "id": "cs-076",
+      "title": "#137 — When the Metric Becomes the Target",
+      "tags": [
+        "data-culture",
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-076.pdf",
+      "thumb": "thumbs/cs-076.png",
+      "source": "137 – When the Metric Becomes the Target RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/437"
+    },
+    {
+      "id": "cs-077",
+      "title": "#138 — What your retention curve is actually telling you",
+      "tags": [
+        "retention",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-077.pdf",
+      "thumb": "thumbs/cs-077.png",
+      "source": "138 – What your retention curve is actually telling you RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/439"
+    },
+    {
+      "id": "cs-078",
+      "title": "14 types of underperforming products in e-commerce",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-078.pdf",
+      "thumb": "thumbs/cs-078.png",
+      "source": "14 types of underperforming products in e-commerce.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-079",
+      "title": "25 reasons reports aren't helping you grow",
+      "tags": [
+        "reporting",
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-079.pdf",
+      "thumb": "thumbs/cs-079.png",
+      "source": "25 reasons reports aren’t helping you grow RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-080",
+      "title": "4 stages of retention decay",
+      "tags": [
+        "retention"
+      ],
+      "pdf": "pdf/cs-080.pdf",
+      "thumb": "thumbs/cs-080.png",
+      "source": "4 stages of retention decay RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/211"
+    },
+    {
+      "id": "cs-081",
+      "title": "#043 — You're optimizing the wrong repeat",
+      "tags": [
+        "retention",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-081.pdf",
+      "thumb": "thumbs/cs-081.png",
+      "source": "43 You’re optimizing the wrong repeat RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/263"
+    },
+    {
+      "id": "cs-082",
+      "title": "5 типов взаимосвязей между метриками",
+      "tags": [
+        "frameworks",
+        "metric-maps"
+      ],
+      "pdf": "pdf/cs-082.pdf",
+      "thumb": "thumbs/cs-082.png",
+      "source": "5 типов взаимосвязей между метриками.pdf",
+      "tg_post": "https://t.me/jetmetrics/237"
+    },
+    {
+      "id": "cs-083",
+      "title": "7 способов измерить удержание в e-commerce",
+      "tags": [
+        "retention",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-083.pdf",
+      "thumb": "thumbs/cs-083.png",
+      "source": "7 способов измерить удержание в e-commerce.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-084",
+      "title": "Beware of the Metric Trap",
+      "tags": [
+        "data-culture",
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-084.pdf",
+      "thumb": "thumbs/cs-084.png",
+      "source": "Beware of the Metric Trap RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-085",
+      "title": "E-commerce Growth Flywheel",
+      "tags": [
+        "ecommerce-metrics",
+        "frameworks"
+      ],
+      "pdf": "pdf/cs-085.pdf",
+      "thumb": "thumbs/cs-085.png",
+      "source": "E-commerce Growth Flywheel RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-086",
+      "title": "Hidden patterns from metric overlaps",
+      "tags": [
+        "metric-maps",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-086.pdf",
+      "thumb": "thumbs/cs-086.png",
+      "source": "Hidden patterns from metric overlaps RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-087",
+      "title": "How to Analyze Seasonality",
+      "tags": [
+        "diagnostics",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-087.pdf",
+      "thumb": "thumbs/cs-087.png",
+      "source": "How to Analyze Seasonality RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-088",
+      "title": "Maze",
+      "tags": [
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-088.pdf",
+      "thumb": "thumbs/cs-088.png",
+      "source": "Maze.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-089",
+      "title": "Tricky metrics that may mislead",
+      "tags": [
+        "vanity-metrics",
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-089.pdf",
+      "thumb": "thumbs/cs-089.png",
+      "source": "Tricky metrics that may mislead RUS.pdf",
+      "tg_post": "https://t.me/jetmetrics/214"
+    },
+    {
+      "id": "cs-090",
+      "title": "What do you see in your dashboard?",
+      "tags": [
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-090.pdf",
+      "thumb": "thumbs/cs-090.png",
+      "source": "What do you see in your dashboard – RUS.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-091",
+      "title": "Как понять, почему метрика просела",
+      "tags": [
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-091.pdf",
+      "thumb": "thumbs/cs-091.png",
+      "source": "Как понять, почему метрика просела.pdf",
+      "tg_post": "https://t.me/jetmetrics/244"
+    },
+    {
+      "id": "cs-092",
+      "title": "Как скидки искажают ваши метрики",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-092.pdf",
+      "thumb": "thumbs/cs-092.png",
+      "source": "Как скидки искажают ваши метрики.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-093",
+      "title": "Как убить data-driven культуру в компании",
+      "tags": [
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-093.pdf",
+      "thumb": "thumbs/cs-093.png",
+      "source": "Как убить data-driven культуру в компании.pdf",
+      "tg_post": "https://t.me/jetmetrics/403"
+    },
+    {
+      "id": "cs-094",
+      "title": "Карты метрик против «плоских» дашбордов",
+      "tags": [
+        "metric-maps",
+        "dashboards"
+      ],
+      "pdf": "pdf/cs-094.pdf",
+      "thumb": "thumbs/cs-094.png",
+      "source": "Карты метрик против “плоских” дашбордов.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-095",
+      "title": "Метрики, которые кажутся важными, но не ведут к решениям",
+      "tags": [
+        "vanity-metrics"
+      ],
+      "pdf": "pdf/cs-095.pdf",
+      "thumb": "thumbs/cs-095.png",
+      "source": "Метрики, которые кажутся важными но не ведут к решениям.pdf",
+      "tg_post": null
+    },
+    {
+      "id": "cs-096",
+      "title": "Не доверяйте AOV вслепую",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-096.pdf",
+      "thumb": "thumbs/cs-096.png",
+      "source": "Не доверяйте AOV вслепую.pdf",
+      "tg_post": "https://t.me/jetmetrics/225"
+    },
+    {
+      "id": "cs-097",
+      "title": "Одинаковый LTV. Совершенно разные виды бизнеса",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-097.pdf",
+      "thumb": "thumbs/cs-097.png",
+      "source": "Одинаковый LTV. Совершенно разные виды бизнеса.pdf",
+      "tg_post": "https://t.me/jetmetrics/253"
+    },
+    {
+      "id": "cs-098",
+      "title": "Средние значения метрик не объясняют",
+      "tags": [
+        "diagnostics",
+        "data-culture"
+      ],
+      "pdf": "pdf/cs-098.pdf",
+      "thumb": "thumbs/cs-098.png",
+      "source": "Средние значения метрик не объясняют.pdf",
+      "tg_post": "https://t.me/jetmetrics/251"
+    },
+    {
+      "id": "cs-099",
+      "title": "Фокусируйтесь на рычагах, а не только на результатах",
+      "tags": [
+        "frameworks",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-099.pdf",
+      "thumb": "thumbs/cs-099.png",
+      "source": "Фокусируйтесь на рычагах, а не только на результатах.pdf",
+      "tg_post": "https://t.me/jetmetrics/235"
+    },
+    {
+      "id": "cs-100",
+      "title": "Что CR не объясняет",
+      "tags": [
+        "ecommerce-metrics",
+        "diagnostics"
+      ],
+      "pdf": "pdf/cs-100.pdf",
+      "thumb": "thumbs/cs-100.png",
+      "source": "Что CR не объясняет.pdf",
+      "tg_post": "https://t.me/jetmetrics/257"
+    },
+    {
+      "id": "cs-101",
+      "title": "Шахматная доска метрик в e-commerce",
+      "tags": [
+        "metric-maps",
+        "ecommerce-metrics"
+      ],
+      "pdf": "pdf/cs-101.pdf",
+      "thumb": "thumbs/cs-101.png",
+      "source": "Шахматная доска метрик в e-commerce.pdf",
+      "tg_post": "https://t.me/jetmetrics/231"
+    }
+  ]
+}

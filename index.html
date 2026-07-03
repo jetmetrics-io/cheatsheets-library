@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Библиотека читшитов — JetMetrics</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="jm-cheatsheets">
+
+  <div class="jm-cs-header">
+    <h1 class="jm-cs-title">Библиотека читшитов по аналитике</h1>
+    <p class="jm-cs-subtitle">Готовые шпаргалки по дашбордам, метрикам и диагностике — сохраняйте и используйте в работе</p>
+  </div>
+
+  <div class="jm-cs-controls">
+    <div class="jm-cs-search">
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.6"/>
+        <line x1="12.4" y1="12.4" x2="16.5" y2="16.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+      <input type="text" id="jm-cs-search-input" placeholder="Поиск по названию…" autocomplete="off">
+    </div>
+    <div class="jm-cs-tags" id="jm-cs-tags"></div>
+  </div>
+
+  <div class="jm-cs-count" id="jm-cs-count"></div>
+
+  <div class="jm-cs-grid" id="jm-cs-grid"></div>
+
+  <div class="jm-cs-empty" id="jm-cs-empty" hidden>Ничего не нашлось. Попробуйте другой запрос или сбросьте фильтры.</div>
+
+  <div class="jm-cs-lightbox" id="jm-cs-lightbox" hidden>
+    <div class="jm-cs-lightbox-backdrop" id="jm-cs-lightbox-backdrop"></div>
+    <div class="jm-cs-lightbox-content">
+      <button class="jm-cs-lightbox-close" id="jm-cs-lightbox-close" aria-label="Закрыть">&times;</button>
+      <div class="jm-cs-lightbox-imgwrap">
+        <img id="jm-cs-lightbox-img" src="" alt="">
+      </div>
+      <div class="jm-cs-lightbox-footer">
+        <div class="jm-cs-lightbox-info">
+          <div class="jm-cs-lightbox-title" id="jm-cs-lightbox-title"></div>
+          <div class="jm-cs-lightbox-tags" id="jm-cs-lightbox-tags"></div>
+        </div>
+        <div class="jm-cs-lightbox-actions">
+          <button id="jm-cs-lightbox-share" class="jm-cs-btn-icon-square" type="button" title="Скопировать ссылку" aria-label="Скопировать ссылку">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M6.5 9.5L9.5 6.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M7.8 4.8L8.8 3.8C9.9 2.7 11.6 2.7 12.7 3.8C13.8 4.9 13.8 6.6 12.7 7.7L11.7 8.7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M8.2 11.2L7.2 12.2C6.1 13.3 4.4 13.3 3.3 12.2C2.2 11.1 2.2 9.4 3.3 8.3L4.3 7.3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </button>
+          <a id="jm-cs-lightbox-tg" href="#" target="_blank" rel="noopener" class="jm-cs-btn-tg" hidden>Читать пост в Telegram</a>
+          <a id="jm-cs-lightbox-download" href="#" download class="jm-cs-btn-download">Скачать PDF</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
