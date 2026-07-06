@@ -88,6 +88,10 @@
   justify-content: center;
 }
 
+.jm-cs-reset-filters[hidden] {
+  display: none;
+}
+
 .jm-cs-reset-filters {
   display: block;
   margin: 4px auto 0;
