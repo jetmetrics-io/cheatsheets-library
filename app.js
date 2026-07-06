@@ -1,4 +1,8 @@
 (function () {
+  // Files (data.json, PDFs, thumbnails) are always loaded from GitHub Pages,
+  // regardless of where this script itself runs (standalone or embedded natively in Tilda).
+  var ASSET_BASE = "https://mary-jetmetrics.github.io/cheatsheets-library/";
+
   var state = {
     items: [],
     tagLabels: {},
@@ -24,7 +28,7 @@
     resetFilters: document.getElementById("jm-cs-reset-filters"),
   };
 
-  fetch("data.json")
+  fetch(ASSET_BASE + "data.json")
     .then(function (r) { return r.json(); })
     .then(function (data) {
       state.items = data.items;
@@ -141,7 +145,7 @@
       var thumbWrap = document.createElement("div");
       thumbWrap.className = "jm-cs-card-thumb-wrap";
       var img = document.createElement("img");
-      img.src = item.thumb;
+      img.src = ASSET_BASE + item.thumb;
       img.loading = "lazy";
       img.alt = item.title;
       thumbWrap.appendChild(img);
@@ -178,7 +182,7 @@
   function openLightbox(item, opts) {
     opts = opts || {};
     state.currentItem = item;
-    els.lightboxImg.src = item.thumb;
+    els.lightboxImg.src = ASSET_BASE + item.thumb;
     els.lightboxImg.alt = item.title;
     els.lightboxTitle.textContent = item.title;
     els.lightboxTags.innerHTML = "";
@@ -194,7 +198,7 @@
       });
       els.lightboxTags.appendChild(chip);
     });
-    els.lightboxDownload.href = item.pdf;
+    els.lightboxDownload.href = ASSET_BASE + item.pdf;
     els.lightboxDownload.setAttribute("download", item.title + ".pdf");
     if (item.tg_post) {
       els.lightboxTg.href = item.tg_post;
@@ -261,11 +265,6 @@
     els.lightboxShare.title = "Скопировать ссылку";
   }
 
-  // Set to the published Tilda page URL once known, e.g. "https://jetmetrics.io/cheatsheets".
-  // Falls back to this page's own URL (github.io) when not set — works standalone, but
-  // shared links won't point to the Tilda site while embedded via iframe there.
-  var PUBLIC_BASE_URL = null;
-
   function copyToClipboard(text) {
     if (navigator.clipboard && navigator.clipboard.writeText) {
       return navigator.clipboard.writeText(text).catch(function () {
@@ -297,8 +296,7 @@
 
   els.lightboxShare.addEventListener("click", function () {
     if (!state.currentItem) return;
-    var base = PUBLIC_BASE_URL || (window.location.origin + window.location.pathname);
-    var url = new URL(base);
+    var url = new URL(window.location.origin + window.location.pathname);
     url.searchParams.set("cs", state.currentItem.id);
     copyToClipboard(url.toString()).then(function () {
       els.lightboxShare.innerHTML = ICON_CHECK;
