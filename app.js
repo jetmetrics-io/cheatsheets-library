@@ -261,16 +261,53 @@
     els.lightboxShare.title = "Скопировать ссылку";
   }
 
+  // Set to the published Tilda page URL once known, e.g. "https://jetmetrics.io/cheatsheets".
+  // Falls back to this page's own URL (github.io) when not set — works standalone, but
+  // shared links won't point to the Tilda site while embedded via iframe there.
+  var PUBLIC_BASE_URL = null;
+
+  function copyToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).catch(function () {
+        return legacyCopy(text);
+      });
+    }
+    return legacyCopy(text);
+  }
+
+  function legacyCopy(text) {
+    return new Promise(function (resolve, reject) {
+      var textarea = document.createElement("textarea");
+      textarea.value = text;
+      textarea.style.position = "fixed";
+      textarea.style.opacity = "0";
+      document.body.appendChild(textarea);
+      textarea.focus();
+      textarea.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(textarea);
+      if (ok) resolve(); else reject(new Error("copy failed"));
+    });
+  }
+
   els.lightboxShare.addEventListener("click", function () {
     if (!state.currentItem) return;
-    var url = new URL(window.location.href);
+    var base = PUBLIC_BASE_URL || (window.location.origin + window.location.pathname);
+    var url = new URL(base);
     url.searchParams.set("cs", state.currentItem.id);
-    navigator.clipboard.writeText(url.toString()).then(function () {
+    copyToClipboard(url.toString()).then(function () {
       els.lightboxShare.innerHTML = ICON_CHECK;
       els.lightboxShare.classList.add("copied");
       els.lightboxShare.title = "Скопировано!";
       clearTimeout(shareResetTimer);
       shareResetTimer = setTimeout(resetShareIcon, 1800);
+    }).catch(function () {
+      els.lightboxShare.title = "Не удалось скопировать";
     });
   });
 })();
