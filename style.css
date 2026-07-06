@@ -393,30 +393,40 @@
   font-family: inherit;
   cursor: pointer;
   white-space: nowrap;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .jm-cs-btn-tg {
-  background: #fff;
+  background: #fff !important;
+  color: #4991FF !important;
+  border: 1px solid #4991FF !important;
+}
+
+.jm-cs-btn-tg:hover,
+.jm-cs-btn-tg:visited,
+.jm-cs-btn-tg:active {
   color: #4991FF;
-  border: 1px solid #4991FF;
 }
 
 .jm-cs-btn-tg:hover {
-  background: #4991FF;
-  color: #fff;
+  background: #4991FF !important;
+  color: #fff !important;
 }
 
 .jm-cs-btn-download {
-  background: var(--jm-green);
-  color: #fff;
-  text-decoration: none;
-  border: 1px solid var(--jm-green);
+  background: var(--jm-green) !important;
+  color: #fff !important;
+  border: 1px solid var(--jm-green) !important;
+}
+
+.jm-cs-btn-download:visited,
+.jm-cs-btn-download:active {
+  color: #fff !important;
 }
 
 .jm-cs-btn-download:hover {
-  background: #0c8369;
-  border-color: #0c8369;
+  background: #0c8369 !important;
+  border-color: #0c8369 !important;
 }
 
 @media (max-width: 520px) {
