@@ -199,7 +199,6 @@
       els.lightboxTags.appendChild(chip);
     });
     els.lightboxDownload.href = ASSET_BASE + item.pdf;
-    els.lightboxDownload.setAttribute("download", item.title + ".pdf");
     if (item.tg_post) {
       els.lightboxTg.href = item.tg_post;
       els.lightboxTg.hidden = false;
