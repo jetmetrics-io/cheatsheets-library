@@ -10,6 +10,13 @@
     query: "",
   };
 
+  // Brand rule: one colored accent word in the display title. Done here (not in
+  // the Tilda-pasted skeleton) so this stays a CSS/JS-only change.
+  var titleEl = document.querySelector(".jm-cs-title");
+  if (titleEl) {
+    titleEl.innerHTML = 'Библиотека читшитов по <span class="jm-accent">аналитике</span>';
+  }
+
   var els = {
     tags: document.getElementById("jm-cs-tags"),
     grid: document.getElementById("jm-cs-grid"),
@@ -104,6 +111,22 @@
     render();
   });
 
+  var TITLE_NUM_RE = /^№(\d+)\s*—\s*(.*)$/;
+
+  function renderTitle(container, title) {
+    var m = TITLE_NUM_RE.exec(title);
+    container.innerHTML = "";
+    if (!m) {
+      container.textContent = title;
+      return;
+    }
+    var num = document.createElement("span");
+    num.className = "jm-cs-num";
+    num.textContent = m[1];
+    container.appendChild(num);
+    container.appendChild(document.createTextNode(" " + m[2]));
+  }
+
   function matches(item) {
     if (state.activeTags.size > 0) {
       var hasTag = item.tags.some(function (t) { return state.activeTags.has(t); });
@@ -137,6 +160,24 @@
     els.empty.hidden = filtered.length > 0;
     els.resetFilters.hidden = state.activeTags.size === 0 && !state.query;
 
+    if (filtered.length === 0) {
+      els.empty.innerHTML =
+        '<span class="jm-cs-empty-icon">' +
+        '<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+        '<circle cx="9" cy="9" r="6.5" stroke="currentColor" stroke-width="1.75"/>' +
+        '<line x1="13.6" y1="13.6" x2="18" y2="18" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/>' +
+        '</svg></span>' +
+        "<h3>Ничего не нашлось</h3>" +
+        "<p>Попробуйте другой запрос или сбросьте фильтры.</p>" +
+        '<button type="button" class="jm-btn jm-btn--secondary" id="jm-cs-empty-reset">Сбросить фильтры</button>';
+      var emptyResetBtn = document.getElementById("jm-cs-empty-reset");
+      if (emptyResetBtn) {
+        emptyResetBtn.addEventListener("click", function () {
+          els.resetFilters.click();
+        });
+      }
+    }
+
     filtered.forEach(function (item) {
       var card = document.createElement("div");
       card.className = "jm-cs-card";
@@ -156,7 +197,7 @@
 
       var title = document.createElement("div");
       title.className = "jm-cs-card-title";
-      title.textContent = item.title;
+      renderTitle(title, item.title);
       body.appendChild(title);
 
       var tagsWrap = document.createElement("div");
@@ -184,7 +225,7 @@
     state.currentItem = item;
     els.lightboxImg.src = ASSET_BASE + item.thumb;
     els.lightboxImg.alt = item.title;
-    els.lightboxTitle.textContent = item.title;
+    renderTitle(els.lightboxTitle, item.title);
     els.lightboxTags.innerHTML = "";
     item.tags.forEach(function (t) {
       var chip = document.createElement("button");
