@@ -35,7 +35,8 @@
       "thumb": "thumbs/cs-001.png",
       "source": "044 Disconnected analytics is a losing deck RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/260",
-      "internal_title": "#044 — Аналитика без связей — это проигрышная колода"
+      "internal_title": "#044 — Аналитика без связей — это проигрышная колода",
+      "seo_description": "Почему метрики нужно смотреть в связке, а не по отдельности — на примере CAC, retention, AOV и bounce rate."
     },
     {
       "id": "cs-002",
@@ -48,7 +49,8 @@
       "thumb": "thumbs/cs-002.png",
       "source": "045 Shadow metrics tell the truth RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/261",
-      "internal_title": "#045 — Яркие метрики могут врать, метрики в тени говорят правду"
+      "internal_title": "#045 — Яркие метрики могут врать, метрики в тени говорят правду",
+      "seo_description": "10+ примеров, когда заметная метрика (открытия писем, рост трафика, LTV) маскирует более тревожную картину внутри."
     },
     {
       "id": "cs-003",
@@ -60,7 +62,8 @@
       "thumb": "thumbs/cs-003.png",
       "source": "048 Don’t measure everything. Navigate. RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/265",
-      "internal_title": "#048 — Не измеряй всё подряд. Двигайся по курсу."
+      "internal_title": "#048 — Не измеряй всё подряд. Двигайся по курсу.",
+      "seo_description": "Как выбрать направление роста (продажи, конверсия, прибыльность, удержание) и подобрать метрики именно под него, а не мерить всё подряд."
     },
     {
       "id": "cs-004",
@@ -73,7 +76,8 @@
       "thumb": "thumbs/cs-004.png",
       "source": "050 From bestsellers to dead stock RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/266",
-      "internal_title": "#050 — От бестселлеров к «мёртвым» запасам"
+      "internal_title": "#050 — От бестселлеров к «мёртвым» запасам",
+      "seo_description": "Как сегментировать товарные SKU по скорости продаж и работать отдельно с хитами, средними товарами и мёртвыми запасами."
     },
     {
       "id": "cs-005",
@@ -86,7 +90,8 @@
       "thumb": "thumbs/cs-005.png",
       "source": "051 Add to Cart Rate Driver Tree RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/268",
-      "internal_title": "#051 — Анатомия метрики «Конверсия в добавление в корзину»"
+      "internal_title": "#051 — Анатомия метрики «Конверсия в добавление в корзину»",
+      "seo_description": "Из каких компонентов складывается конверсия в добавление в корзину — от избранного до карточки товара."
     },
     {
       "id": "cs-006",
@@ -99,7 +104,8 @@
       "thumb": "thumbs/cs-006.png",
       "source": "052 Same CR, different funnel RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/269",
-      "internal_title": "#052 — Одинаковый CR, разные воронки"
+      "internal_title": "#052 — Одинаковый CR, разные воронки",
+      "seo_description": "Почему одинаковый общий CR может скрывать за собой совершенно разные воронки продаж."
     },
     {
       "id": "cs-007",
@@ -112,7 +118,8 @@
       "thumb": "thumbs/cs-007.png",
       "source": "053 LTV by segments is  hidden gold RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/272",
-      "internal_title": "#053 — LTV по сегментам — вот где ценность"
+      "internal_title": "#053 — LTV по сегментам — вот где ценность",
+      "seo_description": "Как сегментация клиентов по LTV выявляет действительно ценные группы и ловушки низкой ценности."
     },
     {
       "id": "cs-008",
@@ -125,7 +132,8 @@
       "thumb": "thumbs/cs-008.png",
       "source": "054 E-commerce Metrics Health Check RUS.pdf",
       "tg_post": null,
-      "internal_title": "#054 — Чекап метрик в e-commerce"
+      "internal_title": "#054 — Чекап метрик в e-commerce",
+      "seo_description": "Чек-лист для регулярного аудита здоровья метрик e-commerce — от чистоты данных до гипотез и документирования."
     },
     {
       "id": "cs-009",
@@ -138,7 +146,8 @@
       "thumb": "thumbs/cs-009.png",
       "source": "055 Fundamental Mistakes in Working with Metrics RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/273",
-      "internal_title": "#055 — Фундаментальные ошибки в работе с метриками"
+      "internal_title": "#055 — Фундаментальные ошибки в работе с метриками",
+      "seo_description": "9 типичных ошибок при анализе метрик — от изоляции метрик до путаницы корреляции и причинности."
     },
     {
       "id": "cs-010",
@@ -150,7 +159,8 @@
       "thumb": "thumbs/cs-010.png",
       "source": "056 Is this a vanity metric RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/280",
-      "internal_title": "#056 — Это метрика тщеславия? Проверь через 8 вопросов"
+      "internal_title": "#056 — Это метрика тщеславия? Проверь через 8 вопросов",
+      "seo_description": "Тест из 8 вопросов, который определяет, критичная метрика перед вами, диагностическая или просто тщеславная."
     },
     {
       "id": "cs-011",
@@ -163,7 +173,8 @@
       "thumb": "thumbs/cs-011.png",
       "source": "057 Metrics Overlap New – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/279",
-      "internal_title": "#057 — Скрытые закономерности из пересечений метрик 2.0"
+      "internal_title": "#057 — Скрытые закономерности из пересечений метрик 2.0",
+      "seo_description": "Карта неочевидных инсайтов, которые видны только на пересечении нескольких метрик e-commerce."
     },
     {
       "id": "cs-012",
@@ -176,7 +187,8 @@
       "thumb": "thumbs/cs-012.png",
       "source": "058 4 leverages of how to drive – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/282",
-      "internal_title": "#058 — 4 рычага воздействия на средний чек"
+      "internal_title": "#058 — 4 рычага воздействия на средний чек",
+      "seo_description": "Четыре управляемых рычага, от которых зависит средний чек: цена SKU, число позиций, единицы и промокоды."
     },
     {
       "id": "cs-013",
@@ -189,7 +201,8 @@
       "thumb": "thumbs/cs-013.png",
       "source": "059 7 Analytics Myths and what to do instead RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/278",
-      "internal_title": "#059 — 7 заблуждений об аналитике (и что делать вместо них)"
+      "internal_title": "#059 — 7 заблуждений об аналитике (и что делать вместо них)",
+      "seo_description": "Разбор частых мифов про атрибуцию, точность данных и дашборды — и что делать вместо погони за идеалом."
     },
     {
       "id": "cs-014",
@@ -202,7 +215,8 @@
       "thumb": "thumbs/cs-014.png",
       "source": "060 30 hypotheses for improving Average Items per Order metric RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/284",
-      "internal_title": "#060 — 30 гипотез для роста метрики «Среднее кол-во SKU в заказе»"
+      "internal_title": "#060 — 30 гипотез для роста метрики «Среднее кол-во SKU в заказе»",
+      "seo_description": "30 конкретных гипотез, как поднять среднее количество товаров в заказе — от UX и цен до партнёрств."
     },
     {
       "id": "cs-015",
@@ -215,7 +229,8 @@
       "thumb": "thumbs/cs-015.png",
       "source": "062 Simpson’s paradox explanation – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/283",
-      "internal_title": "#062 — Почему общий показатель может падать, когда сегменты растут"
+      "internal_title": "#062 — Почему общий показатель может падать, когда сегменты растут",
+      "seo_description": "Разбор парадокса Симпсона на примере AOV — как смещение долей сегментов искажает общий показатель."
     },
     {
       "id": "cs-016",
@@ -228,7 +243,8 @@
       "thumb": "thumbs/cs-016.png",
       "source": "063 4-Layer Dashboard Model RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/290",
-      "internal_title": "#063 — 4 слоя отчётности"
+      "internal_title": "#063 — 4 слоя отчётности",
+      "seo_description": "Четыре уровня, из которых складывается отчётность — от карт и драйверов до визуализации и UX."
     },
     {
       "id": "cs-017",
@@ -241,7 +257,8 @@
       "thumb": "thumbs/cs-017.png",
       "source": "064 The Hateful Ten RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/285",
-      "internal_title": "#064 — Омерзительная десятка"
+      "internal_title": "#064 — Омерзительная десятка",
+      "seo_description": "10 самых токсичных клиентских сегментов e-commerce — от охотников за скидками до серийных возвратчиков."
     },
     {
       "id": "cs-018",
@@ -254,7 +271,8 @@
       "thumb": "thumbs/cs-018.png",
       "source": "065 New Old way RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/293",
-      "internal_title": "#065 — Как мы мыслим: дашборды, которые объясняют, а не просто описывают"
+      "internal_title": "#065 — Как мы мыслим: дашборды, которые объясняют, а не просто описывают",
+      "seo_description": "Сравнение старого и нового подхода к дашбордам — от вопроса «что случилось» к «почему и что делать»."
     },
     {
       "id": "cs-019",
@@ -267,7 +285,8 @@
       "thumb": "thumbs/cs-019.png",
       "source": "066 Dots and connections RUS.pdf",
       "tg_post": null,
-      "internal_title": "#066 — Одна метрика — это просто сигнал. Аналитика — это связи между ними"
+      "internal_title": "#066 — Одна метрика — это просто сигнал. Аналитика — это связи между ними",
+      "seo_description": "Наглядная иллюстрация идеи: аналитика — это не отдельные метрики, а связи между ними."
     },
     {
       "id": "cs-020",
@@ -280,7 +299,8 @@
       "thumb": "thumbs/cs-020.png",
       "source": "067 7 ways to decompose a key metric RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/296",
-      "internal_title": "#067 — 7 способов декомпозировать AOV"
+      "internal_title": "#067 — 7 способов декомпозировать AOV",
+      "seo_description": "Семь разных способов разложить средний чек — от математического до канального — и когда какой применять."
     },
     {
       "id": "cs-021",
@@ -293,7 +313,8 @@
       "thumb": "thumbs/cs-021.png",
       "source": "068 Conversion ↑, Profit ↓ RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/297",
-      "internal_title": "#068 — Конверсия выросла, а прибыль упала"
+      "internal_title": "#068 — Конверсия выросла, а прибыль упала",
+      "seo_description": "Алгоритм диагностики: что проверить, если конверсия растёт, а прибыль всё равно падает."
     },
     {
       "id": "cs-022",
@@ -306,7 +327,8 @@
       "thumb": "thumbs/cs-022.png",
       "source": "069 The Nothing Changed Problem RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/298",
-      "internal_title": "#069 — «Ничего не изменилось»"
+      "internal_title": "#069 — «Ничего не изменилось»",
+      "seo_description": "Почему стабильные цифры на дашборде могут скрывать тревожные изменения состава и качества трафика."
     },
     {
       "id": "cs-023",
@@ -319,7 +341,8 @@
       "thumb": "thumbs/cs-023.png",
       "source": "070 3 dashboard types – 1 foundation RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/299",
-      "internal_title": "#070 — 3 типа дашбордов — 1 основа: карта метрик"
+      "internal_title": "#070 — 3 типа дашбордов — 1 основа: карта метрик",
+      "seo_description": "Диагностический, операционный и исследовательский дашборд — и как карта метрик лежит в основе всех трёх."
     },
     {
       "id": "cs-024",
@@ -331,7 +354,8 @@
       "thumb": "thumbs/cs-024.png",
       "source": "071 Core map RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/308",
-      "internal_title": "#071 — Как всё связано: карта клиентских показателей"
+      "internal_title": "#071 — Как всё связано: карта клиентских показателей",
+      "seo_description": "Как связаны между собой клиентский сервис, NPS, программа лояльности, CRM и реферальная программа."
     },
     {
       "id": "cs-025",
@@ -343,7 +367,8 @@
       "thumb": "thumbs/cs-025.png",
       "source": "072 Good vs Bad Dashboards RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/416",
-      "internal_title": "#072 — Хорошая и плохая аналитика: дашборды для решений"
+      "internal_title": "#072 — Хорошая и плохая аналитика: дашборды для решений",
+      "seo_description": "Наглядное сравнение признаков дашбордов, которые реально помогают принимать решения, и тех, что просто выглядят красиво."
     },
     {
       "id": "cs-026",
@@ -355,7 +380,8 @@
       "thumb": "thumbs/cs-026.png",
       "source": "073 Logic-first Dashboards Cascade RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/302",
-      "internal_title": "#073 — 5 шагов к осмысленному дашборду"
+      "internal_title": "#073 — 5 шагов к осмысленному дашборду",
+      "seo_description": "Пошаговый процесс сборки дашборда — от цели и структуры метрик до визуализации и поддержки."
     },
     {
       "id": "cs-027",
@@ -368,7 +394,8 @@
       "thumb": "thumbs/cs-027.png",
       "source": "074 3 leverages of how to drive RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/303",
-      "internal_title": "#074 — 3 рычага управления метрикой LTV"
+      "internal_title": "#074 — 3 рычага управления метрикой LTV",
+      "seo_description": "Три рычага, которые формируют LTV клиента: доход на заказ, средний чек и длительность отношений."
     },
     {
       "id": "cs-028",
@@ -381,7 +408,8 @@
       "thumb": "thumbs/cs-028.png",
       "source": "075 How a Vanity Metric Becomes Useful RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/305",
-      "internal_title": "#075 — Как метрика тщеславия становится полезной"
+      "internal_title": "#075 — Как метрика тщеславия становится полезной",
+      "seo_description": "Пять шагов, которые превращают любую метрику тщеславия в часть рабочей системы метрик."
     },
     {
       "id": "cs-029",
@@ -393,7 +421,8 @@
       "thumb": "thumbs/cs-029.png",
       "source": "076 Your CEO doesn’t care about your CTR – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/306",
-      "internal_title": "#076 — Что вы отслеживаете ≠ что на самом деле важно"
+      "internal_title": "#076 — Что вы отслеживаете ≠ что на самом деле важно",
+      "seo_description": "Таблица по ролям (CEO, CFO, CMO и другие) — какие метрики обычно смотрят и что на самом деле важно."
     },
     {
       "id": "cs-030",
@@ -405,7 +434,8 @@
       "thumb": "thumbs/cs-030.png",
       "source": "077 10 ways to slice your metrics – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/309",
-      "internal_title": "#077 — 10 полезных разрезов для e-commerce"
+      "internal_title": "#077 — 10 полезных разрезов для e-commerce",
+      "seo_description": "10 срезов данных — устройства, гео, когорты, скидки и другие — которые вскрывают проблемы в e-commerce метриках."
     },
     {
       "id": "cs-031",
@@ -418,7 +448,8 @@
       "thumb": "thumbs/cs-031.png",
       "source": "078 The 4 layers of a Metrics System – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/318",
-      "internal_title": "#078 — 4 уровня системы метрик"
+      "internal_title": "#078 — 4 уровня системы метрик",
+      "seo_description": "От карт метрик до дашбордов и мониторинга — четыре уровня, из которых строится система метрик компании."
     },
     {
       "id": "cs-032",
@@ -431,7 +462,8 @@
       "thumb": "thumbs/cs-032.png",
       "source": "079 How Store’s Costs Are Formed  – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/319",
-      "internal_title": "#079 — Как формируются расходы (и как это бьёт по прибыли)"
+      "internal_title": "#079 — Как формируются расходы (и как это бьёт по прибыли)",
+      "seo_description": "Карта связей между запасами, логистикой, возвратами, скидками и итоговой чистой прибылью."
     },
     {
       "id": "cs-033",
@@ -444,7 +476,8 @@
       "thumb": "thumbs/cs-033.png",
       "source": "080 Reduce cart abandonment Guide RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/120",
-      "internal_title": "#080 — Что приводит к брошенным корзинам"
+      "internal_title": "#080 — Что приводит к брошенным корзинам",
+      "seo_description": "Дерево метрик и пошаговый алгоритм поиска причин брошенных корзин, включая ключевые сегменты покупателей."
     },
     {
       "id": "cs-034",
@@ -456,7 +489,8 @@
       "thumb": "thumbs/cs-034.png",
       "source": "081 How to structure dashboards the right way – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/322",
-      "internal_title": "#081 — Как проектировать дашборды правильно"
+      "internal_title": "#081 — Как проектировать дашборды правильно",
+      "seo_description": "Разница между распространённым и правильным подходом к проектированию дашборда — от цели, а не от доступных данных."
     },
     {
       "id": "cs-035",
@@ -469,7 +503,8 @@
       "thumb": "thumbs/cs-035.png",
       "source": "082 9 Circles of E-commerce Analytics Hell – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/323",
-      "internal_title": "#082 — 9 кругов e-commerce аналитики ада"
+      "internal_title": "#082 — 9 кругов e-commerce аналитики ада",
+      "seo_description": "9 типичных провалов аналитики e-commerce — от шума на дашбордах до данных без глубины понимания."
     },
     {
       "id": "cs-036",
@@ -482,7 +517,8 @@
       "thumb": "thumbs/cs-036.png",
       "source": "083 Metrics map ≠ metrics tree RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/324",
-      "internal_title": "#083 — Карта метрик ≠ дерево метрик"
+      "internal_title": "#083 — Карта метрик ≠ дерево метрик",
+      "seo_description": "В чём разница между картой метрик (система) и деревом метрик (план роста конкретной метрики)."
     },
     {
       "id": "cs-037",
@@ -495,7 +531,8 @@
       "thumb": "thumbs/cs-037.png",
       "source": "084 SEO metrics map – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/328",
-      "internal_title": "#084 — Как растить органический трафик"
+      "internal_title": "#084 — Как растить органический трафик",
+      "seo_description": "Карта связей между позициями в выдаче, CTR, Core Web Vitals и ростом органического трафика."
     },
     {
       "id": "cs-038",
@@ -507,7 +544,8 @@
       "thumb": "thumbs/cs-038.png",
       "source": "085 12 high-intent events behind your CR – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/330",
-      "internal_title": "#085 — 12 сигналов, что клиент готов купить"
+      "internal_title": "#085 — 12 сигналов, что клиент готов купить",
+      "seo_description": "12 поведенческих сигналов покупательского намерения — от повторных попыток оплаты до вопросов о товаре."
     },
     {
       "id": "cs-039",
@@ -520,7 +558,8 @@
       "thumb": "thumbs/cs-039.png",
       "source": "087 From definitions to focus RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/331",
-      "internal_title": "#087 — Как структура помогает выбрать приоритеты"
+      "internal_title": "#087 — Как структура помогает выбрать приоритеты",
+      "seo_description": "Воронка от сотен описанных метрик до 2–3, которые реально важны прямо сейчас."
     },
     {
       "id": "cs-040",
@@ -533,7 +572,8 @@
       "thumb": "thumbs/cs-040.png",
       "source": "088 E-commerce Growth Rules – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/335",
-      "internal_title": "#088 — Иллюзия здоровья в e-commerce"
+      "internal_title": "#088 — Иллюзия здоровья в e-commerce",
+      "seo_description": "Четыре ситуации, где рост верхнеуровневых метрик маскирует реальные проблемы бизнеса."
     },
     {
       "id": "cs-041",
@@ -546,7 +586,8 @@
       "thumb": "thumbs/cs-041.png",
       "source": "089 With or without metric map – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/336",
-      "internal_title": "#089 — Сначала карты метрик, потом деревья метрик"
+      "internal_title": "#089 — Сначала карты метрик, потом деревья метрик",
+      "seo_description": "Почему дерево метрик работает правильно только тогда, когда построено на основе карты метрик."
     },
     {
       "id": "cs-042",
@@ -559,7 +600,8 @@
       "thumb": "thumbs/cs-042.png",
       "source": "090 The Lifecycle of Metric Maps and Trees – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/337",
-      "internal_title": "#090 — Жизненный цикл карт и деревьев метрик"
+      "internal_title": "#090 — Жизненный цикл карт и деревьев метрик",
+      "seo_description": "Шесть шагов цикла — от создания карты метрик до внесения изменений в реальные процессы компании."
     },
     {
       "id": "cs-043",
@@ -572,7 +614,8 @@
       "thumb": "thumbs/cs-043.png",
       "source": "091 CRM metrics map – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/359",
-      "internal_title": "#091 — CRM метрики как система"
+      "internal_title": "#091 — CRM метрики как система",
+      "seo_description": "Как связаны между собой метрики CRM — от новых клиентов и среднего чека до оттока и CAC/CRC."
     },
     {
       "id": "cs-044",
@@ -585,7 +628,8 @@
       "thumb": "thumbs/cs-044.png",
       "source": "092 Analytics Priorities 2026 RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/360",
-      "internal_title": "#092 — Приоритеты аналитики в 2026"
+      "internal_title": "#092 — Приоритеты аналитики в 2026",
+      "seo_description": "Что будет модным в аналитике 2026 года, а что реально важно — сегментация, контекст, связи метрик."
     },
     {
       "id": "cs-045",
@@ -598,7 +642,8 @@
       "thumb": "thumbs/cs-045.png",
       "source": "093 10-step AOV drop diagnostic algorithm – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/362",
-      "internal_title": "#093 — Как разобраться, почему упал AOV: алгоритм из 10 шагов"
+      "internal_title": "#093 — Как разобраться, почему упал AOV: алгоритм из 10 шагов",
+      "seo_description": "Алгоритм из 10 шагов для диагностики падения среднего чека — от проверки до конкретных действий."
     },
     {
       "id": "cs-046",
@@ -611,7 +656,8 @@
       "thumb": "thumbs/cs-046.png",
       "source": "094 Orders ↑, Profit ↓.pdf",
       "tg_post": "https://t.me/jetmetrics/410",
-      "internal_title": "#094 — Заказы выросли, прибыль упала — как найти причину"
+      "internal_title": "#094 — Заказы выросли, прибыль упала — как найти причину",
+      "seo_description": "Пять частых причин, когда рост заказов не превращается в рост прибыли, и что проверить в каждой."
     },
     {
       "id": "cs-047",
@@ -623,7 +669,8 @@
       "thumb": "thumbs/cs-047.png",
       "source": "095 15 metric frameworks – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/365",
-      "internal_title": "#095 — 15 подходов к систематизации метрик"
+      "internal_title": "#095 — 15 подходов к систематизации метрик",
+      "seo_description": "Обзор известных фреймворков систематизации метрик — от AARRR и HEART до OMTM и деревьев KPI."
     },
     {
       "id": "cs-048",
@@ -636,7 +683,8 @@
       "thumb": "thumbs/cs-048.png",
       "source": "096 CR Driver Tree – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/389",
-      "internal_title": "#096 — Конверсия — это результат, а не точка приложения усилий"
+      "internal_title": "#096 — Конверсия — это результат, а не точка приложения усилий",
+      "seo_description": "Дерево драйверов, которые реально управляют конверсией сайта, а не сама конверсия как цель."
     },
     {
       "id": "cs-049",
@@ -649,7 +697,8 @@
       "thumb": "thumbs/cs-049.png",
       "source": "097 Spontaneous Decisions VS System RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/386",
-      "internal_title": "#097 — Хаотичные решения: почему продажи упали"
+      "internal_title": "#097 — Хаотичные решения: почему продажи упали",
+      "seo_description": "Чем спонтанные реакции на падение продаж хуже системы решений на основе карт и деревьев метрик."
     },
     {
       "id": "cs-050",
@@ -661,7 +710,8 @@
       "thumb": "thumbs/cs-050.png",
       "source": "099 How to define key metric – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/387",
-      "internal_title": "#099 — Как выбрать ключевую метрику"
+      "internal_title": "#099 — Как выбрать ключевую метрику",
+      "seo_description": "Пошаговый алгоритм выбора и валидации ключевой метрики под текущий фокус команды."
     },
     {
       "id": "cs-051",
@@ -673,7 +723,8 @@
       "thumb": "thumbs/cs-051.png",
       "source": "100 How to add a metric – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/388",
-      "internal_title": "#100 — Нужно ли добавлять эту метрику на дашборд?"
+      "internal_title": "#100 — Нужно ли добавлять эту метрику на дашборд?",
+      "seo_description": "Короткий чек-лист вопросов, которые стоит задать перед тем, как добавить новую метрику на дашборд."
     },
     {
       "id": "cs-052",
@@ -685,7 +736,8 @@
       "thumb": "thumbs/cs-052.png",
       "source": "103 What people think Checking why revenue dropped looks like – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/402",
-      "internal_title": "#103 — «Давайте узнаем, почему продажи снизились»"
+      "internal_title": "#103 — «Давайте узнаем, почему продажи снизились»",
+      "seo_description": "Разница между ожиданием и реальностью разбора причин падения продаж — сколько гипотез нужно проверить на самом деле."
     },
     {
       "id": "cs-053",
@@ -698,7 +750,8 @@
       "thumb": "thumbs/cs-053.png",
       "source": "105 Metric went up is that good – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/404",
-      "internal_title": "#105 — Если метрика растёт — это хорошо?"
+      "internal_title": "#105 — Если метрика растёт — это хорошо?",
+      "seo_description": "Примеры метрик из разных индустрий — ритейл, SaaS, B2B — где рост не всегда означает успех."
     },
     {
       "id": "cs-054",
@@ -711,7 +764,8 @@
       "thumb": "thumbs/cs-054.png",
       "source": "106 Same Revenue. Different ecom apps – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/406",
-      "internal_title": "#106 — Разные приложения, одинаковые продажи"
+      "internal_title": "#106 — Разные приложения, одинаковые продажи",
+      "seo_description": "Сравнение двух приложений с одинаковой выручкой, но разной монетизацией, удержанием и привлечением."
     },
     {
       "id": "cs-055",
@@ -724,7 +778,8 @@
       "thumb": "thumbs/cs-055.png",
       "source": "107 How to explain metrics – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/407",
-      "internal_title": "#107 — Как объяснять изменение метрик, чтобы это приводило к решениям"
+      "internal_title": "#107 — Как объяснять изменение метрик, чтобы это приводило к решениям",
+      "seo_description": "Разница между «рассказчиком» и «двигателем решений» в отчётности — три вопроса перед тем, как включить метрику в отчёт."
     },
     {
       "id": "cs-056",
@@ -737,7 +792,8 @@
       "thumb": "thumbs/cs-056.png",
       "source": "108 Optimization is NOT Growth – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/408",
-      "internal_title": "#108 — Оптимизация — это не рост"
+      "internal_title": "#108 — Оптимизация — это не рост",
+      "seo_description": "В чём разница между оптимизацией существующей базы и настоящим ростом бизнеса — тактики, метрики, риски."
     },
     {
       "id": "cs-057",
@@ -749,7 +805,8 @@
       "thumb": "thumbs/cs-057.png",
       "source": "109 One metric won't tell you what's wrong – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/409",
-      "internal_title": "#109 — Одна метрика не покажет, в чём проблема"
+      "internal_title": "#109 — Одна метрика не покажет, в чём проблема",
+      "seo_description": "Таблица связок метрик — что смотреть вместе с CR, AOV, CAC и другими ключевыми показателями."
     },
     {
       "id": "cs-058",
@@ -762,7 +819,8 @@
       "thumb": "thumbs/cs-058.png",
       "source": "112 When growth is eating e-commerce business – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/413",
-      "internal_title": "#112 — Когда рост заказов на самом деле вреден"
+      "internal_title": "#112 — Когда рост заказов на самом деле вреден",
+      "seo_description": "Четыре ситуации, где рост числа заказов сопровождается ухудшением прибыли, возвратов или CAC."
     },
     {
       "id": "cs-059",
@@ -775,7 +833,8 @@
       "thumb": "thumbs/cs-059.png",
       "source": "114 How top e-commerce teams read their data differently RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/412",
-      "internal_title": "#114 — Как топ-команды работают с метриками иначе"
+      "internal_title": "#114 — Как топ-команды работают с метриками иначе",
+      "seo_description": "Сравнение обычного и системного подхода к метрикам — от реакции на просадку до поиска причин в отчётах."
     },
     {
       "id": "cs-060",
@@ -787,7 +846,8 @@
       "thumb": "thumbs/cs-060.png",
       "source": "117 Symptoms of vanity metrics RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/417",
-      "internal_title": "#117 — Лечебник метрик тщеславия: симптомы"
+      "internal_title": "#117 — Лечебник метрик тщеславия: симптомы",
+      "seo_description": "5 признаков метрики тщеславия: только растёт, изолирована от других, не ведёт к решениям."
     },
     {
       "id": "cs-061",
@@ -799,7 +859,8 @@
       "thumb": "thumbs/cs-061.png",
       "source": "118 How to cure vanity metrics RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/418",
-      "internal_title": "#118 — Лечебник метрик тщеславия: лечение"
+      "internal_title": "#118 — Лечебник метрик тщеславия: лечение",
+      "seo_description": "Как вылечить метрику тщеславия — нормализация, парная метрика, сегментация, замена на драйвер."
     },
     {
       "id": "cs-062",
@@ -811,7 +872,8 @@
       "thumb": "thumbs/cs-062.png",
       "source": "121 Types of metrics – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/420",
-      "internal_title": "#121 — 4 типа метрик на карте метрик"
+      "internal_title": "#121 — 4 типа метрик на карте метрик",
+      "seo_description": "Памятка по типам метрик на карте метрик — результирующие, диагностические, расходы и метрики действия."
     },
     {
       "id": "cs-063",
@@ -823,7 +885,8 @@
       "thumb": "thumbs/cs-063.png",
       "source": "122 Types of relationships metrics – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/422",
-      "internal_title": "#122 — 2 типа связей между метриками"
+      "internal_title": "#122 — 2 типа связей между метриками",
+      "seo_description": "Памятка о прямых и обратных связях между метриками с примерами из продаж и email-рассылок."
     },
     {
       "id": "cs-064",
@@ -836,7 +899,8 @@
       "thumb": "thumbs/cs-064.png",
       "source": "126 Higher AOV might mean you're losing money – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/431",
-      "internal_title": "#126 — Что может скрываться за одной карточкой KPI"
+      "internal_title": "#126 — Что может скрываться за одной карточкой KPI",
+      "seo_description": "Пять причин, почему одна цифра KPI — на примере среднего чека — может вводить в заблуждение."
     },
     {
       "id": "cs-065",
@@ -849,7 +913,8 @@
       "thumb": "thumbs/cs-065.png",
       "source": "127 Stop asking AI for answers – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/432",
-      "internal_title": "#127 — Как правильно задавать вопросы о метриках ИИ"
+      "internal_title": "#127 — Как правильно задавать вопросы о метриках ИИ",
+      "seo_description": "Сравнение плохих и хороших формулировок вопросов о метриках, изменениях и решениях — в том числе для работы с ИИ."
     },
     {
       "id": "cs-074",
@@ -862,7 +927,8 @@
       "thumb": "thumbs/cs-074.png",
       "source": "135 – Decoration or Decision – RUS.pdf",
       "tg_post": null,
-      "internal_title": "#135 — Украшение или решение?"
+      "internal_title": "#135 — Украшение или решение?",
+      "seo_description": "5 принципов превращения декоративного дашборда в диагностический — когорты, парные метрики, окно, сезонность, сегменты."
     },
     {
       "id": "cs-075",
@@ -875,7 +941,8 @@
       "thumb": "thumbs/cs-075.png",
       "source": "136 – What your AI is missing RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/436",
-      "internal_title": "#136 — Чего не хватает вашему ИИ для аналитики"
+      "internal_title": "#136 — Чего не хватает вашему ИИ для аналитики",
+      "seo_description": "Какой контекст — карты метрик, семантика, сегментация — нужен ИИ, чтобы давать надёжные инсайты, а не галлюцинации."
     },
     {
       "id": "cs-076",
@@ -888,7 +955,8 @@
       "thumb": "thumbs/cs-076.png",
       "source": "137 – When the Metric Becomes the Target RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/437",
-      "internal_title": "#137 — Когда метрика становится самоцелью"
+      "internal_title": "#137 — Когда метрика становится самоцелью",
+      "seo_description": "Как оптимизация одной метрики (конверсия, привлечение и другие) сказывается на стратегических показателях — прибыли и LTV."
     },
     {
       "id": "cs-077",
@@ -901,7 +969,8 @@
       "thumb": "thumbs/cs-077.png",
       "source": "138 – What your retention curve is actually telling you RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/439",
-      "internal_title": "#138 — О чём может сказать кривая удержания"
+      "internal_title": "#138 — О чём может сказать кривая удержания",
+      "seo_description": "Пять форм кривой удержания — обрыв, сползание, протечка, плато — и что каждая говорит о бизнесе."
     },
     {
       "id": "cs-078",
@@ -913,7 +982,8 @@
       "thumb": "thumbs/cs-078.png",
       "source": "14 types of underperforming products in e-commerce.pdf",
       "tg_post": null,
-      "internal_title": "14 типов товаров, которые мешают e-commerce расти"
+      "internal_title": "14 типов товаров, которые мешают e-commerce расти",
+      "seo_description": "Классификация проблемных товаров e-commerce — от скрытых хитов до товаров, зависящих от скидок."
     },
     {
       "id": "cs-079",
@@ -926,7 +996,8 @@
       "thumb": "thumbs/cs-079.png",
       "source": "25 reasons reports aren’t helping you grow RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/220",
-      "internal_title": "25 причин, почему отчёты не помогают расти"
+      "internal_title": "25 причин, почему отчёты не помогают расти",
+      "seo_description": "Чек-лист типичных проблем отчётности — от неправильных сравнений до отсутствия метрик прибыли."
     },
     {
       "id": "cs-080",
@@ -939,7 +1010,8 @@
       "thumb": "thumbs/cs-080.png",
       "source": "4 stages of retention decay RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/211",
-      "internal_title": "4 стадии деградации ретеншна"
+      "internal_title": "4 стадии деградации ретеншна",
+      "seo_description": "Как распознать раннее ухудшение удержания клиентов — от здорового ретеншна до его полного исчезновения."
     },
     {
       "id": "cs-081",
@@ -951,7 +1023,8 @@
       "thumb": "thumbs/cs-081.png",
       "source": "43 You’re optimizing the wrong repeat RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/263",
-      "internal_title": "#043 — Есть 3 вида удержания клиентов, и только один полезен"
+      "internal_title": "#043 — Есть 3 вида удержания клиентов, и только один полезен",
+      "seo_description": "Псевдо-удержание, промо-удержание и здоровая лояльность — как их различать и что делать с каждым."
     },
     {
       "id": "cs-082",
@@ -964,7 +1037,8 @@
       "thumb": "thumbs/cs-082.png",
       "source": "5 типов взаимосвязей между метриками.pdf",
       "tg_post": "https://t.me/jetmetrics/237",
-      "internal_title": "5 типов взаимосвязей между метриками"
+      "internal_title": "5 типов взаимосвязей между метриками",
+      "seo_description": "Математическая, причинная, временная связь, общий драйвер и ложная корреляция — на примерах реальных метрик."
     },
     {
       "id": "cs-083",
@@ -976,7 +1050,8 @@
       "thumb": "thumbs/cs-083.png",
       "source": "7 способов измерить удержание в e-commerce.pdf",
       "tg_post": "https://t.me/jetmetrics/247",
-      "internal_title": "7 способов измерить удержание в e-commerce"
+      "internal_title": "7 способов измерить удержание в e-commerce",
+      "seo_description": "От Repeat Purchase Rate до Profit Retention — семь метрик удержания разной сложности и точности."
     },
     {
       "id": "cs-084",
@@ -989,7 +1064,8 @@
       "thumb": "thumbs/cs-084.png",
       "source": "Beware of the Metric Trap RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/204",
-      "internal_title": "Осторожно: ловушка метрик"
+      "internal_title": "Осторожно: ловушка метрик",
+      "seo_description": "6 примеров, когда улучшение одной метрики — CPC, AOV, ROAS — незаметно портит другую."
     },
     {
       "id": "cs-085",
@@ -1002,7 +1078,8 @@
       "thumb": "thumbs/cs-085.png",
       "source": "E-commerce Growth Flywheel RUS.pdf",
       "tg_post": null,
-      "internal_title": "Механика роста в e-commerce"
+      "internal_title": "Механика роста в e-commerce",
+      "seo_description": "Карта рычагов роста e-commerce — от привлечения и конвертации до удержания и монетизации."
     },
     {
       "id": "cs-086",
@@ -1014,7 +1091,8 @@
       "thumb": "thumbs/cs-086.png",
       "source": "Hidden patterns from metric overlaps RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/219",
-      "internal_title": "Неочевидные выводы, которые видны только в сочетании метрик"
+      "internal_title": "Неочевидные выводы, которые видны только в сочетании метрик",
+      "seo_description": "Больше десятка примеров инсайтов, которые видны только при сопоставлении нескольких метрик вместе."
     },
     {
       "id": "cs-087",
@@ -1026,7 +1104,8 @@
       "thumb": "thumbs/cs-087.png",
       "source": "How to Analyze Seasonality RUS.pdf",
       "tg_post": null,
-      "internal_title": "Как анализировать сезонность"
+      "internal_title": "Как анализировать сезонность",
+      "seo_description": "Три типа сезонности и способ отличить сезонный эффект от реальной проблемы в метриках."
     },
     {
       "id": "cs-088",
@@ -1039,7 +1118,8 @@
       "thumb": "thumbs/cs-088.png",
       "source": "Maze.pdf",
       "tg_post": null,
-      "internal_title": "Аналитика без карт метрик — это блуждание в лабиринте"
+      "internal_title": "Аналитика без карт метрик — это блуждание в лабиринте",
+      "seo_description": "Иллюстрация, как отсутствие карты метрик превращает диагностику падения продаж в бесконечный тупик."
     },
     {
       "id": "cs-089",
@@ -1051,7 +1131,8 @@
       "thumb": "thumbs/cs-089.png",
       "source": "Tricky metrics that may mislead RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/214",
-      "internal_title": "Коварные метрики"
+      "internal_title": "Коварные метрики",
+      "seo_description": "Семь метрик, где рост на самом деле плохой знак, а падение — хороший, и как это проверить."
     },
     {
       "id": "cs-090",
@@ -1064,7 +1145,8 @@
       "thumb": "thumbs/cs-090.png",
       "source": "What do you see in your dashboard – RUS.pdf",
       "tg_post": "https://t.me/jetmetrics/212",
-      "internal_title": "Что вы видите в своём дашборде?"
+      "internal_title": "Что вы видите в своём дашборде?",
+      "seo_description": "Наглядный пример, почему просто трекать метрики недостаточно — нужно ещё и понимать причины изменений."
     },
     {
       "id": "cs-091",
@@ -1076,7 +1158,8 @@
       "thumb": "thumbs/cs-091.png",
       "source": "Как понять, почему метрика просела.pdf",
       "tg_post": "https://t.me/jetmetrics/244",
-      "internal_title": "Как понять, почему метрика просела"
+      "internal_title": "Как понять, почему метрика просела",
+      "seo_description": "Алгоритм из 6 шагов — от проверки просадки до разбивки на драйверы, сегменты и гипотезы."
     },
     {
       "id": "cs-092",
@@ -1089,7 +1172,8 @@
       "thumb": "thumbs/cs-092.png",
       "source": "Как скидки искажают ваши метрики.pdf",
       "tg_post": "https://t.me/jetmetrics/256",
-      "internal_title": "Как скидки искажают ваши метрики"
+      "internal_title": "Как скидки искажают ваши метрики",
+      "seo_description": "Какие метрики выглядят лучше во время промо-акций, а какие реально падают, но не попадают в отчёты."
     },
     {
       "id": "cs-093",
@@ -1102,7 +1186,8 @@
       "thumb": "thumbs/cs-093.png",
       "source": "Как убить data-driven культуру в компании.pdf",
       "tg_post": "https://t.me/jetmetrics/403",
-      "internal_title": "Как убить data-driven культуру в компании"
+      "internal_title": "Как убить data-driven культуру в компании",
+      "seo_description": "Ироничная инструкция типичных антипаттернов дата-культуры — от ожидания идеальных данных до решений без данных."
     },
     {
       "id": "cs-094",
@@ -1115,7 +1200,8 @@
       "thumb": "thumbs/cs-094.png",
       "source": "Карты метрик против “плоских” дашбордов.pdf",
       "tg_post": "https://t.me/jetmetrics/248",
-      "internal_title": "Карты метрик против «плоских» дашбордов"
+      "internal_title": "Карты метрик против «плоских» дашбордов",
+      "seo_description": "Сравнение обычных дашбордов и карт метрик — что каждый подход показывает при падении показателей."
     },
     {
       "id": "cs-095",
@@ -1127,7 +1213,8 @@
       "thumb": "thumbs/cs-095.png",
       "source": "Метрики, которые кажутся важными но не ведут к решениям.pdf",
       "tg_post": "https://t.me/jetmetrics/361",
-      "internal_title": "Метрики, которые кажутся важными, но не ведут к решениям"
+      "internal_title": "Метрики, которые кажутся важными, но не ведут к решениям",
+      "seo_description": "ROAS, клики, сессии и другие метрики, которые легко понять неправильно — и чем их заменить."
     },
     {
       "id": "cs-096",
@@ -1140,7 +1227,8 @@
       "thumb": "thumbs/cs-096.png",
       "source": "Не доверяйте AOV вслепую.pdf",
       "tg_post": "https://t.me/jetmetrics/225",
-      "internal_title": "Не доверяйте AOV вслепую"
+      "internal_title": "Не доверяйте AOV вслепую",
+      "seo_description": "Что проверить перед тем, как радоваться росту среднего чека — конверсию, прибыльность, сегменты клиентов."
     },
     {
       "id": "cs-097",
@@ -1153,7 +1241,8 @@
       "thumb": "thumbs/cs-097.png",
       "source": "Одинаковый LTV. Совершенно разные виды бизнеса.pdf",
       "tg_post": "https://t.me/jetmetrics/253",
-      "internal_title": "Одинаковый LTV. Совершенно разные бизнесы"
+      "internal_title": "Одинаковый LTV. Совершенно разные бизнесы",
+      "seo_description": "Сравнение двух компаний с одинаковым LTV, но разными AOV, частотой заказов и маржой."
     },
     {
       "id": "cs-098",
@@ -1166,7 +1255,8 @@
       "thumb": "thumbs/cs-098.png",
       "source": "Средние значения метрик не объясняют.pdf",
       "tg_post": "https://t.me/jetmetrics/251",
-      "internal_title": "Средние значения метрик не объясняют ситуацию"
+      "internal_title": "Средние значения метрик не объясняют ситуацию",
+      "seo_description": "Пять примеров, где усреднённая метрика — AOV, CR, ROAS — скрывает сильный разброс между сегментами."
     },
     {
       "id": "cs-099",
@@ -1179,7 +1269,8 @@
       "thumb": "thumbs/cs-099.png",
       "source": "Фокусируйтесь на рычагах, а не только на результатах.pdf",
       "tg_post": "https://t.me/jetmetrics/235",
-      "internal_title": "Фокусируйтесь на рычагах, а не только на результатах"
+      "internal_title": "Фокусируйтесь на рычагах, а не только на результатах",
+      "seo_description": "Карта низкоуровневых actionable-метрик, которые реально управляют ростом AOV, конверсии и других ключевых показателей."
     },
     {
       "id": "cs-100",
@@ -1192,7 +1283,8 @@
       "thumb": "thumbs/cs-100.png",
       "source": "Что CR не объясняет.pdf",
       "tg_post": "https://t.me/jetmetrics/257",
-      "internal_title": "Что CR не объясняет"
+      "internal_title": "Что CR не объясняет",
+      "seo_description": "Почему общий CR слишком общий показатель и что видно только через его отдельные компоненты воронки."
     },
     {
       "id": "cs-101",
@@ -1204,7 +1296,8 @@
       "thumb": "thumbs/cs-101.png",
       "source": "Шахматная доска метрик в e-commerce.pdf",
       "tg_post": "https://t.me/jetmetrics/231",
-      "internal_title": "Шахматная доска метрик в e-commerce"
+      "internal_title": "Шахматная доска метрик в e-commerce",
+      "seo_description": "Карта метрик e-commerce по ролям: базовые, ключевые, долгосрочные метрики и метрики реакции."
     }
   ]
 }
