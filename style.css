@@ -92,7 +92,7 @@
 
   font-family: var(--jm-font-sans);
   color: var(--jm-text);
-  background: var(--jm-bg);
+  background: var(--jm-surface);
   max-width: var(--jm-container);
   margin: 0 auto;
   padding: var(--jm-space-12) var(--jm-space-6) var(--jm-space-20);
