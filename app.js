@@ -83,10 +83,12 @@
       pill.dataset.tag = tagId;
       pill.textContent = state.tagLabels[tagId];
       pill.addEventListener("click", function () {
+        // Single-select, like the compilations pages: a click shows only this
+        // category; clicking the active one again (or "Все") clears back to all.
         if (state.activeTags.has(tagId)) {
-          state.activeTags.delete(tagId);
+          state.activeTags.clear();
         } else {
-          state.activeTags.add(tagId);
+          state.activeTags = new Set([tagId]);
         }
         updatePillStates();
         render();
